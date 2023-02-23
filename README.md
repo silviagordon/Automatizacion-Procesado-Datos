@@ -1,3 +1,17 @@
-# project-da-promoC-module-1-team-6
+# Automatizacion-Procesado-Datos
 
-Este repositorio corresponde al proyecto del team 6, cuyo objetivo es realizar una base de datos a partir de distintos ficheros con distinto formatos. Automatizando el sistema de procesado de datos para futuras inserciones de archivo.
+🔑 Este repositorio contiene un proyecto académido del BootCamp Data Analyst de Adalab donde a partir de diferentes ficheros con distinto formatos se realizará una BBDD consiguiendo la automatización y procesado de datos para inserciones futuras.
+
+Dicho repositorio consta de una carpeta llamada "Data" donde se encuentran los diferentes archivos utilizados en el proyecto.
+
+📍 Se necesitarán las librerias:
+
+- Pandas
+
+- Regex
+
+- Os
+
+- xml.etree.ElementTree
+
+- mysql.connector
